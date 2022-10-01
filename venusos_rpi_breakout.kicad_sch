@@ -2358,7 +2358,7 @@
   (no_connect (at 138.43 62.23) (uuid d81476f4-ec82-4973-9f43-4473401d4ad4))
   (no_connect (at 256.54 107.95) (uuid e90848d8-acc0-4d97-8227-7ec61dd24589))
   (no_connect (at 124.46 157.48) (uuid f9f29fb6-8848-4169-9a75-b664f35fb659))
-  (no_connect (at 140.97 157.48) (uuid f9f29fb6-8848-4169-9a75-b664f35fb659))
+  (no_connect (at 140.97 157.48) (uuid f9f29fb6-8848-4169-9a75-b664f35fb65a))
   (no_connect (at 140.97 147.32) (uuid fa5575df-6dbc-44a6-a5a5-47fedfe59dd0))
   (no_connect (at 256.54 97.79) (uuid fd836898-0325-440a-8740-fc1ec7bcc0f0))
 
@@ -3259,7 +3259,7 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid a8d6f858-2f7e-4f0b-8700-03114df025dd)
   )
-  (text "Dual-SRD (12V) - tbd" (at 15.24 69.85 0)
+  (text "Dual-SRD (12V)" (at 15.24 69.85 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid e62fa2b8-7726-4575-8712-7958a8c57417)
   )
